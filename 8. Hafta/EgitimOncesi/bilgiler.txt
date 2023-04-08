@@ -1,4 +1,3 @@
-YetGen
-Core
+Deneme
 Python
-17599
+JuDenemedeneme
