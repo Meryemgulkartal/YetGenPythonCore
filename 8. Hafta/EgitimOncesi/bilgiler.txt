@@ -1,3 +1,2 @@
 Deneme
-Python
-JuDenemedeneme
+PyDenemeJuDenemedeneme
